@@ -2,6 +2,5 @@
 - Attending NDSU for Software Engineering
   
 ## Current Projects
-- [Becker County Jail Inmate API](https://github.com/sstock2005/bcj-api) (done)
-- [Quote of the Day Discord Bot](https://github.com/sstock2005/qotd-bot) (done)  
+- [Terraria Network Protocol Library](https://github.com/sstock2005/TNPL)
 - [Daily-ish Rust Projects](https://github.com/sstock2005/rust-daily)
