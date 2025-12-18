@@ -1,5 +1,1 @@
-## About Me
-- Second Year in Software Engineering @ NDSU
-  
-## Current Project
-- school...
+I'm a 20-year-old software engineering student at North Dakota State University with a passion for reverse engineering and programming. Since starting my journey in 2020, I've honed my expertise in Java, Python, and high performance computing (HPC).
